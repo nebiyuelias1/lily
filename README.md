@@ -1,6 +1,7 @@
 # Homework 8 Local RAG Chatbot Lily with coversation history
 
 Create a local RAG Chatbot based on Lily-Cybersecurity that keeps conversation history:
+
 1.Ollama with custom models
 2.Langchain with Ollama and conversation history
 3.Langchain with retrieval chain
